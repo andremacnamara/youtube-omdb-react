@@ -10,4 +10,4 @@ This is a small react project built for fun. It hits both the Open Movie databas
 - It also ensures that the components are controlled
 
 
-![Image of application](https://imgur.com/a/uQ148Yj)
+![Image of application](https://imgur.com/44BhOpb)
