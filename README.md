@@ -9,5 +9,4 @@ This is a small react project built for fun. It hits both the Open Movie databas
 - Axios
 - It also ensures that the components are controlled
 
-
-![Image of application](https://imgur.com/44BhOpb)
+![Screenshot](/eadme-screenshot.png?raw=true)
