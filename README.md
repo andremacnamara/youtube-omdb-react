@@ -14,9 +14,9 @@ This is a small react project built for fun. It hits both the Open Movie databas
 - Sign up to the youtube video api, and omdb api.
 - Create a .env file
 - Add your keys to the .env like so
-    - REACT_APP_OMDB_KEY=604122c6
-    - REACT_APP_OMDB_ID=tt3896198
-    - REACT_APP_YOUTUBE_KEY=AIzaSyC7-dol7H7mY3cgrQNNE9vLB6H4zQjbr-g
+    - REACT_APP_OMDB_KEY=key
+    - REACT_APP_OMDB_ID=id
+    - REACT_APP_YOUTUBE_KEY=key-dol7H7mY3cgrQNNE9vLB6H4zQjbr-g
 
 
 ![Screenshot](/readme-screenshot.png?raw=true)
